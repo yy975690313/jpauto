@@ -1,3 +1,5 @@
-data/
+data/daily
+data/history
+data/pk
 build/
 screenshot/

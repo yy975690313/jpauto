@@ -1,3 +1,2 @@
-pk-signin-1.bat
-pk-signin-2.bat
-pause
+start 01_pk-signin-1.bat
+start 02_pk-signin-2.bat
